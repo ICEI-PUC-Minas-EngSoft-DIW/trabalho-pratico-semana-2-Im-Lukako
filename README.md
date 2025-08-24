@@ -1,9 +1,10 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Lucas Augusto
+- Matricula: 1595519
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+`<![alt text](image.png)>`
+![alt text](image.png)

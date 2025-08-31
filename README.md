@@ -2,7 +2,7 @@
 
 ## Informações Gerais
 - Nome: Lucas Augusto
-- Matricula: 1595519
+- Matricula: 898603
 
 ## Print da tela da página criada (Curriculum Vitae)
 
